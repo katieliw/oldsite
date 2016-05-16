@@ -2,6 +2,15 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+.top {
+    background:url(http://wallpapercave.com/wp/TtjLdl8.jpg);
+    background-attachment: fixed;
+	background-position: center bottom;
+	background-size: cover;
+	height:60%;
+	width:100%;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
